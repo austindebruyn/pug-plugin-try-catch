@@ -13,6 +13,7 @@
     "eslint-config-airbnb-base": "^11.0.1",
     "eslint-plugin-import": "^2.2.0",
     "mocha": "^3.2.0",
+    "pug": "^2.0.0-beta6",
     "pug-lexer": "^2.3.0",
     "pug-parser": "^2.0.1"
   },
