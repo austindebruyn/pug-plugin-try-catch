@@ -14,11 +14,11 @@ Use node v6.x.
 
 ## Installation
 
-`npm install pug-plugin-try-catch`
+`$ npm install --save pug-plugin-try-catch`
 
 ## Usage
 
-```
+```javascript
 var pug = require('pug');
 
 var src = `
