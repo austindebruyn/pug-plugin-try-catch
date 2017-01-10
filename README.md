@@ -2,8 +2,7 @@
 
 [![Dependency Status](https://img.shields.io/david/pugjs/pug.svg?style=flat)](https://david-dm.org/pugjs/pug)
 [![Build Status](https://travis-ci.org/austindebruyn/breadcrumble.svg?branch=master)](https://travis-ci.org/austindebruyn/breadcrumble)
-[![NPM version](https://img.shields.io/npm/v/pug.svg?style=flat)](https://www.npmjs.com/package/pug)
-
+[![NPM version](https://img.shields.io/npm/v/pug-plugin-try-catch.svg?style=flat)](https://www.npmjs.com/package/pug-plugin-try-catch)
 
 An extension to the pug templating language to allow for try/catch statements.
 
