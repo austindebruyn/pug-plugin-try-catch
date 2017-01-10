@@ -1,0 +1,24 @@
+{
+  "name": "pug-plugin-try-catch",
+  "version": "0.0.1",
+  "author": "Austin deBruyn <austin.debruyn@gmail.com>",
+  "description": "An extension to the pug templating language to allow for try/catch statements.",
+  "keywords": "jade,pug,plugin,template,templating,try,catch,javascript",
+  "main": "index.js",
+  "dependencies": {
+    "pug-code-gen": "^1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.13.1",
+    "eslint-config-airbnb-base": "^11.0.1",
+    "eslint-plugin-import": "^2.2.0",
+    "mocha": "^3.2.0",
+    "pug-lexer": "^2.3.0",
+    "pug-parser": "^2.0.1"
+  },
+  "scripts": {
+    "test": "mocha test",
+    "lint": "eslint lib"
+  },
+  "license": "ISC"
+}
