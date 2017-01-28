@@ -6,7 +6,6 @@
   "keywords": "jade,pug,plugin,template,templating,try,catch,javascript",
   "main": "index.js",
   "dependencies": {
-    "object-assign": "^4.1.1",
     "pug-code-gen": "^1.1.0"
   },
   "devDependencies": {
