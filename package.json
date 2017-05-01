@@ -1,6 +1,6 @@
 {
   "name": "pug-plugin-try-catch",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "Austin deBruyn <austin.debruyn@gmail.com>",
   "description": "An extension to the pug templating language to allow for try/catch statements.",
   "keywords": "jade,pug,plugin,template,templating,try,catch,javascript",
