@@ -1,0 +1,16 @@
+mixin workingMixin(x)
+  div.from-mixin= x
+
+mixin brokenMixin(x)
+  div.from-mixin= x.some.thing
+
+try
+  +workingMixin("yeah")
+catch
+  +workingMixin("nope")
+
+try
+  +workingMixin("yeah...")
+  +brokenMixin("nope")
+catch
+  +workingMixin("it works")
